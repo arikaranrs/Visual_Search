@@ -1,0 +1,9 @@
+flask
+faiss-cpu
+open_clip_torch
+torch
+torchvision
+Pillow
+firebase-admin
+google-generativeai
+algoliasearch
